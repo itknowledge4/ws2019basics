@@ -1,2 +1,8 @@
 # Windows Server 2019 Basics
 You can find all presentations, code and other materials from the Windows Server 2019 Basics course.
+
+## [Playlist](https://www.youtube.com/watch?v=VYMtcBBfgzo&list=PLBYrLLXZvp0yggdP-HU538lY7FERfO7mO)
+
+## Single Videos
+[1. Installing](https://youtu.be/VYMtcBBfgzo)
+
