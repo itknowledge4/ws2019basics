@@ -5,4 +5,5 @@ You can find all presentations, code and other materials from the Windows Server
 
 ## Single Videos
 [1. Installing](https://youtu.be/VYMtcBBfgzo)
+[2. Initial settings](https://www.youtube.com/watch?v=76F7LlOy-lY)
 
