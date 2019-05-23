@@ -12,5 +12,6 @@ You can find all presentations, code and other materials from the Windows Server
 [6. Manage servers with Server Manager](https://youtu.be/-1hmpZH64EE) <br />
 [7. Manage servers with Powershell](https://youtu.be/C9OY_JDn8Vg) <br />
 [8. Manage servers with Windows Admin Center](https://youtu.be/-Qm4YxAYFEg) <br />
-[9. Configure DNS](https://youtu.be/Cg00f7x6eus)
+[9. Configure DNS](https://youtu.be/Cg00f7x6eus) <br />
+[10. Configure DHCP](https://youtu.be/VJnLvXwFpFY)
 
