@@ -14,5 +14,6 @@ You can find all presentations, code and other materials from the Windows Server
 [8. Manage servers with Windows Admin Center](https://youtu.be/-Qm4YxAYFEg) <br />
 [9. Configure DNS](https://youtu.be/Cg00f7x6eus) <br />
 [10. Configure DHCP](https://youtu.be/VJnLvXwFpFY) <br />
-[11. Configure DHCP on Server Core](https://youtu.be/yWwOrmifeQE)
+[11. Configure DHCP on Server Core](https://youtu.be/yWwOrmifeQE) <br />
+[12. App Compatibility Feature on Demand](https://www.youtube.com/watch?v=mDnD-cRKySg)
 
